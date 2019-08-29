@@ -1,0 +1,21 @@
+{
+    "name": "firefly",
+    "displayName": "FireFly",
+    "description": "A pure colorful dark theme that glows in night, inspired by fireflies. Fully optimized for eyes, you will love night devlife.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FireFly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FireFly-color-theme.json"
+            }
+        ]
+    }
+}
