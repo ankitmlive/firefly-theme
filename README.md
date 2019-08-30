@@ -14,9 +14,9 @@ A Theme that praise you to code at night means better productivity, You will lov
 ## Demo
 
 <div align="center">
-  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/first-demo.png" width="600">
-  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/second-demo.png" width="600">
-  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/third-demo.png" width="600">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/first-demo.png">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/second-demo.png">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/third-demo.png">
 </div>
 
 ## Getting started
