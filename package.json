@@ -1,6 +1,6 @@
 {
     "name": "firefly",
-    "displayName": "FireFly Theme",
+    "displayName": "FireFly Pro",
     "description": "A pure colorful dark theme that glows in night, inspired by fireflies. Fully optimized for eyes, you will love night devlife.",
     "publisher": "ankitcode",
     "license": "MIT",
@@ -12,7 +12,7 @@
 		"type": "git",
 		"url": "https://github.com/ankitmlive/firefly-theme"
 	},
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -23,7 +23,10 @@
 		"theme",
 		"dark",
 		"firefly",
-		"awesome"
+        "awesome",
+        "pro",
+        "colorful",
+        "minimal"
 	],
 
 	"icon": "assets/firefly-theme-icon.png",

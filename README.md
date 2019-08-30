@@ -1,13 +1,24 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-theme-icon.png" width="300">
 </div>
+
 <p align="center">
-<a href="https://code.visualstudio.com/updates/v1_25"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> 
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a>
- <a href="https://a.paddle.com/v2/click/16413/37697?link=1227"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ankitcode.firefly.svg?maxAge=3600&style=for-the-badge&labelColor=c2d943&color=cae242">
+  </a>
+  <!-- downloads -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/ankitcode.firefly.svg?maxAge=3600&style=for-the-badge&labelColor=fc8b4c&color=ff6600">
+  </a>
+  <!-- rating -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/ankitcode.firefly.svg?maxAge=86400&style=for-the-badge&labelColor=56518a&color=827db5">
+  </a>
 </p>
 
-## FireFly Theme
+
+## FireFly Pro
 
  * A pure colorful dark theme that glows in night, inspired by fireflies. 
  * For professional Night Coders who Loves Visual Studio Code.
@@ -15,7 +26,7 @@
  * A Theme that praise you to code at night means better productivity, because in night there is no disturbance.
  * You will love night devlife again.
 
-## Demo
+## Demo Screenshot
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/first-demo.png" >
@@ -65,12 +76,13 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select FireFly.
+Type `theme`, choose `Preferences: Color Theme`, and select FireFly Pro.
 
 
 ## Recommended settings for a better experience
 
-#### Material Icon Theme is best pairing with this theme -- Install material icon extension
+##### Material Icon Theme is best pairing with this theme -- Install material icon extension
+##### Operator Mono(buy) & Fira Code(free) are best suited fonts with firefly -- Install Fira Code or Operator Mono
 
 ```js
 {
@@ -80,6 +92,10 @@ Type `theme`, choose `Preferences: Color Theme`, and select FireFly.
     "editor.fontLigatures": true,
 }
 ```
+## feedback
+
+If you find any issue or feature idea let me know either on [GITHUB ISSUE](https://github.com/ankitmlive/firefly-theme/issues) or [EMAIL ME](ankitmlive@gmail.com)
+
 ## Contribution
 
 If you like this theme and wants to contribute in this project, you can clone our github repository.
@@ -90,18 +106,24 @@ git clone https://github.com/ankitmlive/firefly-theme.git
 
 ### Current Contribution
 
-Theme Logo Created by : Kartik Rajeev - [TWITTER](https://twitter.com/ankitmlive)
+<img src="http://camlent.com/karthik.png" width=70/>
 
-## About Me
+Theme Logo Created by -- Karthik Rajeev [TWITTER](https://twitter.com/KarthuRajeev)    [GIHUB](https://github.com/camlent)
 
-  <img src="https://avatars0.githubusercontent.com/u/25228659?s=460&v=4" style="width:150px;border-radius: 50%;">
-  <p style="padding:auto 50px;">A Self Taught FullStack Software Developer who also Loves Front End and Design, started my career with Front End then workded as a Back End Developer and currently i am working as a Fullstack Software Developer with the skills of PHP,HTML,CSS,JAVASCRIPT,MAP,LARAVEL,VUE and so on...
-  <br><br>You can catch me on :</p>
+### Authors
 
-  On [TWITTER](https://twitter.com/ankitmlive)
-  On [GIHUB](https://github.com/ankitmlive)
+  <img src="http://camlent.com/ankit.png" width="70"/>
 
-  &copy; Ankit Mishra 2019
+  A Self Taught FullStack Software Developer who also Loves FrontEnd and Design, started my career with FrontEnd then workded as a BackEnd Developer and currently i am working as a Fullstack Software Developer.
+  I love coding at night so there was a need of a pure black theme for calming eyes hence created this theme after lots of testing and usecase, tried it for 3 month on regular basis then published it.
+
+  You can catch me on : [TWITTER](https://twitter.com/ankitmlive)     [GIHUB](https://github.com/ankitmlive)
+
+---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-theme-icon.png" width=16 height=16/> Copyright &copy; 2019 Ankit Mishra</p>
+<p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a></p>
+
 
 
 
