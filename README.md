@@ -106,13 +106,13 @@ git clone https://github.com/ankitmlive/firefly-theme.git
 
 ### Current Contribution
 
-<img src="http://camlent.com/karthik.png" width=70/>
+<img src="/assets/karthik.png" width=70/>
 
 Theme Logo Created by -- Karthik Rajeev [TWITTER](https://twitter.com/KarthuRajeev)    [GIHUB](https://github.com/camlent)
 
 ### Authors
 
-  <img src="http://camlent.com/ankit.png" width="70"/>
+  <img src="/assets/ankit.png" width="70"/>
 
   A Self Taught FullStack Software Developer who also Loves FrontEnd and Design, started my career with FrontEnd then workded as a BackEnd Developer and currently i am working as a Fullstack Software Developer.
   I love coding at night so there was a need of a pure black theme for calming eyes hence created this theme after lots of testing and usecase, tried it for 3 month on regular basis then published it.
