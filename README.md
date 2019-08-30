@@ -11,6 +11,14 @@ A pure colorful dark theme that glows in night, inspired by fireflies.
 Fully optimized for eyes, Tested it more than 6 hours in night with no eye burn -- Calming to Eyes.
 A Theme that praise you to code at night means better productivity, You will love night devlife again.
 
+## Demo
+
+<div align="center">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/first-demo.png" width="600">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/second-demo.png" width="600">
+  <img src="https://github.com/ankitmlive/firefly-theme/blob/master/assets/third-demo.png" width="600">
+</div>
+
 ## Getting started
 You can install firefly theme through mentioned ways.
 
