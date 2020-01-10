@@ -115,7 +115,7 @@ Theme Logo Created by -- Karthik Rajeev [TWITTER](https://twitter.com/KarthuRaje
   <img src="/assets/ankit.png" width="70"/>
 
   A FullStack Software Developer who also Loves FrontEnd and Design, started my career with FrontEnd then workded as a BackEnd Developer and currently i am working as a Fullstack Software Developer.
-  I love coding at night so there was a need of a pure black theme for calming eyes hence created this theme after lots of testing and usecase, tried it for 3 month on regular basis then published it.
+  I love coding at night so there was a need of a pure black theme for calming eyes hence created this theme after lots of testing and usecase, tried it for 3 month on regular basis.
 
   You can catch me on : [TWITTER](https://twitter.com/ankitmlive)     [GIHUB](https://github.com/ankitmlive)
 
