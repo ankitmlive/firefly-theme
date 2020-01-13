@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#292d36",
-		"foreground": "#3d424d",
+		"foreground": "#c2d943",
 		"widget.shadow": "#00010a",
         "selection.background": "#161f2afd",
         
@@ -16,11 +16,9 @@
 		"button.foreground": "#0a0e14",
 		"button.hoverBackground": "#869c30",
 
-
 		"dropdown.background": "#0d1016",
 		"dropdown.foreground": "#3d424d",
 		"dropdown.border": "#333b12",
-
 
 		"input.background": "#0d1016",
 		"input.border": "#191e25",
@@ -33,10 +31,13 @@
 		"inputValidation.infoBorder": "#39bae6",
 		"inputValidation.warningBackground": "#0a0e14",
 		"inputValidation.warningBorder": "#ffb454",
+		
 		"scrollbar.shadow": "#01060e",
-		"scrollbarSlider.background": "#3d424d66",
-		"scrollbarSlider.hoverBackground": "#3d424d99",
-		"scrollbarSlider.activeBackground": "#3d424db3",
+		"scrollbarSlider.background": "#4d4e4e", 
+
+		"scrollbarSlider.hoverBackground": "#464747",
+		"scrollbarSlider.activeBackground": "#626364",
+
 		"badge.background": "#c2d943",
 		"badge.foreground": "#0a0e14",
 		"progressBar.background": "#c2d943",
@@ -77,13 +78,13 @@
 		"breadcrumbPicker.background": "#b3b1ad",
         
 
-		"tab.activeBackground": "#21242c",
-		"tab.activeForeground": "#b3b1ad",
+		"tab.activeBackground": "#39393a",
+		"tab.activeForeground": "#b2b3b4",
 		"tab.border": "#0a0e14",
 		"tab.activeBorder": "#20240b",
 		"tab.unfocusedActiveBorder": "#3d424d",
 		"tab.inactiveBackground": "#0a0e14",
-		"tab.inactiveForeground": "#3d424d",
+		"tab.inactiveForeground": "#b2b3b4",
 		"tab.unfocusedActiveForeground": "#3d424d",
         "tab.unfocusedInactiveForeground": "#3d424d",
         
