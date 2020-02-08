@@ -28,9 +28,10 @@
 ## Demo Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/first-demo.png" >
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/second-demo.png">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/third-demo.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-A.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-B.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-C.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-D.png">
 </div>
 
 ## Getting started
