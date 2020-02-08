@@ -5,7 +5,7 @@
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ankitcode.firefly.svg?maxAge=3600&style=for-the-badge&labelColor=c2d943&color=cae242">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ankitcode.firefly.svg?maxAge=3600&style=for-the-badge&labelColor=c2d943&color=859900">
   </a>
   <!-- downloads -->
   <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
@@ -13,18 +13,17 @@
   </a>
   <!-- rating -->
   <a href="https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/ankitcode.firefly.svg?maxAge=86400&style=for-the-badge&labelColor=56518a&color=827db5">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/ankitcode.firefly.svg?maxAge=86400&style=for-the-badge&labelColor=827db5&color=56518a">
   </a>
 </p>
 
 
 ## FireFly Pro
 
- * A pure colorful dark theme that glows in night, inspired by fireflies. 
+ * A pure colorful dark theme that glows in night, inspired by fireflies.
  * For professional Night Coders who Loves Visual Studio Code.
- * Fully optimized for eyes, Tested it more than 6 hours in night with no eye burn -- Calming to Eyes.
- * A Theme that praise you to code at night means better productivity, because in night there is no disturbance.
- * You will love night devlife again.
+ * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
+ * A Theme that motivates you to code at night, because in night there is no disturbance.
 
 ## Demo Screenshot
 
@@ -43,7 +42,7 @@ You can install firefly theme through mentioned ways.
 
 Install this incredible dark theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly).
 
-#### 2 - From Command Panel in  vscode
+#### 2 - From Command Panel in  VsCode
 
 Launch *Quick Open*:
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
@@ -81,18 +80,32 @@ Type `theme`, choose `Preferences: Color Theme`, and select FireFly Pro.
 
 ## Recommended settings for a better experience
 
-##### Material Icon Theme is best pairing with this theme -- Install material icon extension
-##### Operator Mono(buy) & Fira Code(free) are best suited fonts with firefly -- Install Fira Code or Operator Mono
+##### Use Material Icon's -- Install material icon extension
+##### Jetbrains Mono(free), Operator Mono(buy) & Fira Code(free) are best suited fonts with firefly -- Install Jetbrains Mono, Fira Code or Operator Mono
+##### Jetbrains Mono is a New TypeFace for Developers, Firefly looks awesome with it download it here -> https://www.jetbrains.com/lp/mono/
 
 ```js
 {
-    // "Operator Mono" font family is the best for this theme.
+    // "Jetbrains Mono" font family OR
+    "editor.fontFamily": "Jetbrains Mono",
+    // "Operator Mono" font family AND
     "editor.fontFamily": "Operator Mono",
     // Enables font ligatures
     "editor.fontLigatures": true,
 }
 ```
-## feedback
+## Issues
+
+If you are facing VsCode Editor background issue, where your editor background show's different colors, use this setting to fix it.
+
+```shell
+Goto Command Pallete in vscode
+Search for 'Configure Runtime Arguments' & enter, it will open argv.json file
+Add this in your argv file -> "disable-hardware-acceleration": true 
+Restart VsCode
+```
+
+## Feedback
 
 If you find any issue or feature idea let me know either on [GITHUB ISSUE](https://github.com/ankitmlive/firefly-theme/issues) or [EMAIL ME](ankitmlive@gmail.com)
 
@@ -108,20 +121,22 @@ git clone https://github.com/ankitmlive/firefly-theme.git
 
 <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/karthik.png" width=70/>
 
-Theme Logo Created by -- Karthik Rajeev [TWITTER](https://twitter.com/KarthuRajeev)    [GIHUB](https://github.com/camlent)
+Theme Logo Created by -- Karthik Rajeev 
 
-### Authors
+You can catch on : [TWITTER](https://twitter.com/KarthuRajeev)    [GITHUB](https://github.com/camlent)
+
+### Author
 
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/ankit.png" width="70"/>
 
-  A FullStack Software Developer who also Loves FrontEnd and Design, started my career with FrontEnd then workded as a BackEnd Developer and currently i am working as a Fullstack Software Developer.
-  I love coding at night so there was a need of a pure black theme for calming eyes hence created this theme after lots of testing and usecase, tried it for 3 month on regular basis.
+Theme Created by -- Ankit Mishra
 
-  You can catch me on : [TWITTER](https://twitter.com/ankitmlive)     [GIHUB](https://github.com/ankitmlive)
+
+  You can catch on : [TWITTER](https://twitter.com/ankitmlive) [GITHUB](https://github.com/ankitmlive)
 
 ---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-theme-icon.png" width=16 height=16/> Copyright &copy; 2019 Ankit Mishra</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-theme-icon.png" width=16 height=16/> Copyright &copy; 2019-2020 Ankit Mishra</p>
 <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a></p>
 
 
