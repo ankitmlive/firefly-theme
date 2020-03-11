@@ -8,7 +8,7 @@
 		"selection.background": "#c3c3c3",
 
 		"titleBar.activeBackground": "#191823",
-        "titleBar.activeForeground": "#151515",
+        "titleBar.activeForeground": "#a4bd00",
         "titleBar.inactiveBackground": "#b4b4b4",
         "titleBar.inactiveForeground": "#494949",
         "titleBar.border": "#000000",
@@ -73,7 +73,7 @@
         
 		"editorGroup.border": "#01060e",
 		"editorGroupHeader.noTabsBackground": "#0a0e14",
-		"editorGroupHeader.tabsBackground": "#0a0e14",
+		"editorGroupHeader.tabsBackground": "#20202c",
 		"editorGroupHeader.tabsBorder": "#0a0e14",
 		
 		"breadcrumb.background": "#000000",
@@ -82,12 +82,12 @@
 		"breadcrumb.activeSelectionForeground": "#3f3f3f",
 		"breadcrumbPicker.background": "#151515",
         
-		"tab.activeBackground": "#343434",
+		"tab.activeBackground": "#323044",
 		"tab.activeForeground": "#a4bd00",
 		"tab.border": "#000000",
 		"tab.activeBorder": "#000000",
 		"tab.unfocusedActiveBorder": "#3d424d",
-		"tab.inactiveBackground": "#000000",
+		"tab.inactiveBackground": "#20202c",
 		"tab.inactiveForeground": "#a0a8bd",
 		"tab.unfocusedActiveForeground": "#3d424d",
         "tab.unfocusedInactiveForeground": "#3d424d",
