@@ -11,8 +11,12 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ankitmlive/firefly-theme"
-	},
-    "version": "2.0.0",
+    },
+    "bugs": {
+        "url": "https://github.com/ankitmlive/firefly-theme/issues",
+        "email": "ankitmlive@gmail.com"
+    },
+    "version": "2.1.0",
     "engines": {
         "vscode": "^1.37.0"
     },

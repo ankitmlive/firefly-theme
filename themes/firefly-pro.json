@@ -4,7 +4,7 @@
 	"colors": {
 		"focusBorder": "#292d36",
 		"foreground": "#a0a8bd",
-		"widget.shadow": "#859900",
+		"widget.shadow": "#a4bd00",
 		"selection.background": "#c3c3c3",
 
 		"titleBar.activeBackground": "#D6D6D6",
@@ -14,11 +14,11 @@
         "titleBar.border": "#000000",
         
 		"textBlockQuote.background": "#0d1016",
-		"textLink.foreground": "#859900",
+		"textLink.foreground": "#a4bd00",
 		"textLink.activeForeground": "#a0a8bd",
         "textPreformat.foreground": "#a0a8bd",
         
-		"button.background": "#859900",
+		"button.background": "#a4bd00",
 		"button.foreground": "#151515",
 		"button.hoverBackground": "#869c30",
 
@@ -43,12 +43,12 @@
 		"scrollbarSlider.hoverBackground": "#343434",
 		"scrollbarSlider.activeBackground": "#3f3f3f",
 
-		"badge.background": "#859900",
+		"badge.background": "#a4bd00",
 		"badge.foreground": "#0a0e14",
-		"progressBar.background": "#859900",
+		"progressBar.background": "#a4bd00",
 
 		"list.activeSelectionBackground": "#0a0a0a",
-		"list.activeSelectionForeground": "#859900",
+		"list.activeSelectionForeground": "#a4bd00",
 		"list.focusBackground": "#2a2a2a",
 		"list.focusForeground": "#D9D7CE",
 		"list.highlightForeground": "#FFCC66",
@@ -59,9 +59,9 @@
 		"list.invalidItemForeground": "#2e323c",
 	
 		"activityBar.background": "#000000",
-		"activityBar.foreground": "#859900",
+		"activityBar.foreground": "#a4bd00",
 		"activityBar.border": "#000000",
-		"activityBarBadge.background": "#859900",
+		"activityBarBadge.background": "#a4bd00",
         "activityBarBadge.foreground": "#0a0e14",
         
 		"sideBar.background": "#151515",
@@ -78,12 +78,12 @@
 		
 		"breadcrumb.background": "#000000",
 		"breadcrumb.foreground": "#a0a8bd",
-		"breadcrumb.focusForeground": "#859900",
+		"breadcrumb.focusForeground": "#a4bd00",
 		"breadcrumb.activeSelectionForeground": "#3f3f3f",
 		"breadcrumbPicker.background": "#151515",
         
 		"tab.activeBackground": "#343434",
-		"tab.activeForeground": "#859900",
+		"tab.activeForeground": "#a4bd00",
 		"tab.border": "#000000",
 		"tab.activeBorder": "#000000",
 		"tab.unfocusedActiveBorder": "#3d424d",
@@ -153,8 +153,8 @@
 		"peekViewTitleLabel.foreground": "#3d424d",
 
 		"panel.background": "#0a0a0a",
-		"panel.border": "#859900",
-		"panelTitle.activeBorder": "#859900",
+		"panel.border": "#a4bd00",
+		"panelTitle.activeBorder": "#a4bd00",
 		"panelTitle.activeForeground": "#a0a8bd",
 		"panelTitle.inactiveForeground": "#86898f",
 		
@@ -231,7 +231,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#859900"
+				"foreground": "#a4bd00"
 			}
 		},
 		{
