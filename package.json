@@ -1,7 +1,7 @@
 {
     "name": "firefly",
     "displayName": "FireFly Pro",
-    "description": "A pure colorful dark theme that glows in night, inspired by fireflies.",
+    "description": "A pure colorful dark theme that glows in night, inspired by fireflies.Includes three dark variants - Pro, Midnight & Gloom",
     "publisher": "ankitcode",
     "license": "MIT",
 	"author": {
@@ -16,7 +16,7 @@
         "url": "https://github.com/ankitmlive/firefly-theme/issues",
         "email": "ankitmlive@gmail.com"
     },
-    "version": "2.1.3",
+    "version": "2.5.0",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -33,9 +33,11 @@
         "minimal",
         "vscode",
         "dark-theme",
-        "black"
+        "black",
+        "midnight",
+        "gloom"
 	],
-
+    "homepage": "https://github.com/ankitmlive/firefly-theme",
 	"icon": "assets/firefly-theme-icon.png",
 
 	"galleryBanner": {
@@ -55,6 +57,11 @@
                 "label": "FireFly Pro Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/firefly-pro-midnight.json"
+            },
+            {
+                "label": "FireFly Pro Gloom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/firefly-pro-gloom.json"
             }
         ]
     }
