@@ -68,9 +68,9 @@
 		"sideBar.background": "#20202c",
 		"sideBar.foreground": "#a8aebd",
 		"sideBar.border": "#0a0a0a",
-		"sideBarTitle.foreground": "#cbcbcb",
-		"sideBarSectionHeader.background": "#0a0e14",
-        "sideBarSectionHeader.foreground": "#d2d2d2",
+		"sideBarTitle.foreground": "#d2d2d2",
+		"sideBarSectionHeader.background": "#20202c",
+		"sideBarSectionHeader.foreground": "#d2d2d2",
         
 		"editorGroup.border": "#01060e",
 		"editorGroupHeader.noTabsBackground": "#0a0e14",
@@ -93,7 +93,7 @@
 		"tab.unfocusedActiveForeground": "#3d424d",
         "tab.unfocusedInactiveForeground": "#3d424d",
         
-		"editor.background": "#0a0a0a",
+		"editor.background": "#151515",
 		"editor.foreground": "#b3b8c5",
 		"editorLineNumber.foreground": "#4d5466",
 		"editorLineNumber.activeForeground": "#3d424de6",
@@ -180,15 +180,15 @@
 		"pickerGroup.border": "#01060e",
 		"pickerGroup.foreground": "#242831",
 		"debugToolBar.background": "#0d1016",
-		"walkThrough.embeddedEditorBackground": "#0d1016",
-
+        "walkThrough.embeddedEditorBackground": "#0d1016",
+        
 		"gitDecoration.modifiedResourceForeground": "#6994bfb3",
 		"gitDecoration.deletedResourceForeground": "#d96c75b3",
 		"gitDecoration.untrackedResourceForeground": "#6e7035",
 		"gitDecoration.ignoredResourceForeground": "#242831",
 		"gitDecoration.conflictingResourceForeground": "#ff5300",
-		"gitDecoration.submoduleResourceForeground": "#ffee99b3",
-
+        "gitDecoration.submoduleResourceForeground": "#ffee99b3",
+        
 		"settings.headerForeground": "#b3b1ad",
         "settings.modifiedItemIndicator": "#6994bf",
         

@@ -65,11 +65,11 @@
         "activityBarBadge.foreground": "#0a0e14",
         
 		"sideBar.background": "#151515",
-		"sideBar.foreground": "#a0a8bd",
+		"sideBar.foreground": "#a8aebd",
 		"sideBar.border": "#0a0a0a",
-		"sideBarTitle.foreground": "#a0a8bd",
-		"sideBarSectionHeader.background": "#0a0e14",
-        "sideBarSectionHeader.foreground": "#a0a8bd",
+		"sideBarTitle.foreground": "#d2d2d2",
+		"sideBarSectionHeader.background": "#151515",
+		"sideBarSectionHeader.foreground": "#d2d2d2",
         
 		"editorGroup.border": "#01060e",
 		"editorGroupHeader.noTabsBackground": "#0a0e14",

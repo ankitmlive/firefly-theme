@@ -18,9 +18,10 @@
 </p>
 
 
-## FireFly Pro
+## FireFly Pro -- Description
 
  * A pure colorful dark theme that glows in night, inspired by fireflies.
+ * Includes Two Dark variants - Firefly Pro & FireFly Pro Midnight
  * For professional Night Coders who Loves Visual Studio Code.
  * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
  * A Theme that motivates you to code at night, because in night there is no disturbance.
@@ -133,7 +134,7 @@ You can catch on : [TWITTER](https://twitter.com/KarthuRajeev)    [GITHUB](https
 Theme Created by -- Ankit Mishra
 
 
-  You can catch on : [TWITTER](https://twitter.com/ankitmlive) [GITHUB](https://github.com/ankitmlive)
+  You can catch on : [TWITTER](https://twitter.com/ankitmlive)   [GITHUB](https://github.com/ankitmlive)
 
 ---
 
