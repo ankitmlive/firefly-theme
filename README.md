@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-theme-icon.png" width="300">
+<img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-icon.png" width="300">
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 
-## FireFly Pro -- Description
+## Description
 
  * A pure colorful dark theme that glows in night, inspired by fireflies.
  * Includes Two Dark variants - Firefly Pro & FireFly Pro Midnight
@@ -26,13 +26,22 @@
  * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
  * A Theme that motivates you to code at night, because in night there is no disturbance.
 
-## Demo Screenshot
+## Firefly Pro Demo Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-A.png">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-B.png">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-C.png">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/Firefly-D.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-home.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-php.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-python.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-vue.png">
+</div>
+
+## Firefly Pro Midnight Demo Screenshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-midnight-home.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-midnight-php.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-midnight-python.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-midnight-vue.png">
 </div>
 
 ## Getting started
