@@ -56,6 +56,11 @@
                 "label": "FireFly Pro Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/firefly-pro-midnight.json"
+            },
+            {
+                "label": "FireFly Pro Light",
+                "uiTheme": "vs",
+                "path": "./themes/firefly-pro-light.json"
             }
         ]
     }
