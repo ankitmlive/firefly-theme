@@ -4,7 +4,6 @@
 	"colors": {
 		"focusBorder": "#292d36",
 		"foreground": "#a0a8bd",
-		"widget.shadow": "#a4bd00",
 		"selection.background": "#c3c3c3",
 
 		"titleBar.activeBackground": "#000000",
