@@ -20,13 +20,13 @@
 
 ## Description
 
- * A pure colorful dark theme that glows in night, inspired by fireflies.
+ * A Pure Colorful Dark Theme that Glows in Night, inspired by Fireflies.
  * Includes Two Dark variants - Firefly Pro & FireFly Pro Midnight
  * For professional Night Coders who Loves Visual Studio Code.
  * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
- * A Theme that motivates you to code at night, because in night there is no disturbance.
+ * A Theme that motivates you to code at night.
 
-## Firefly Pro Demo Screenshot
+## Firefly Pro Demo
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-home.png">
@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-vue.png">
 </div>
 
-## Firefly Pro Midnight Demo Screenshot
+## Firefly Pro Midnight Demo
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-midnight-home.png">
@@ -53,7 +53,7 @@ You can install firefly theme through mentioned ways.
 
 Install this incredible dark theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly).
 
-#### 2 - From Command Panel in  VsCode
+#### 2 - From Command Panel in VsCode
 
 Launch *Quick Open*:
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
@@ -86,7 +86,7 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select FireFly Pro.
+Type `theme`, choose `Preferences: Color Theme`, and select FireFly Pro or FireFly Pro MidNight.
 
 
 ## Recommended settings for a better experience
