@@ -92,7 +92,7 @@
         "tab.unfocusedInactiveForeground": "#3d424d",
         
 		"editor.background": "#0a0a0a",
-		"editor.foreground": "#a8aebd",
+		"editor.foreground": "#b3b8c5",
 		"editorLineNumber.foreground": "#4d5466",
 		"editorLineNumber.activeForeground": "#3d424de6",
 		"editorCursor.foreground": "#bde5f1",
@@ -105,6 +105,7 @@
 
 		"editor.wordHighlightBackground": "#363636",
 		"editor.wordHighlightStrongBackground": "#e6b45033",
+		
 		"editor.findMatchBackground": "#e6b4500d",
 		"editor.findMatchBorder": "#e6b450",
 		"editor.findMatchHighlightBackground": "#e6b4500d",
