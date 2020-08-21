@@ -16,7 +16,7 @@
         "url": "https://github.com/ankitmlive/firefly-theme/issues",
         "email": "ankitmlive@gmail.com"
     },
-    "version": "3.0.1",
+    "version": "3.0.2",
     "engines": {
         "vscode": "^1.37.0"
     },
