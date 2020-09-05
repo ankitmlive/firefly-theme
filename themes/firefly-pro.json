@@ -83,8 +83,8 @@
         
 		"tab.activeBackground": "#343434",
 		"tab.activeForeground": "#a4bd00",
-		"tab.border": "#000000",
-		"tab.activeBorder": "#000000",
+		"tab.border": "#343434",
+		"tab.activeBorder": "#343434",
 		"tab.unfocusedActiveBorder": "#3d424d",
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#a0a8bd",
