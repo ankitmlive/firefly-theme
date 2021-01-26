@@ -57,15 +57,15 @@
 		"list.inactiveSelectionForeground": "#D9D7CE",
 		"list.invalidItemForeground": "#2e323c",
 	
-		"activityBar.background": "#000000",
-		"activityBar.foreground": "#a4bd00",
-		"activityBar.border": "#000000",
-		"activityBarBadge.background": "#a4bd00",
+		"activityBar.background": "#0e1421",
+		"activityBar.foreground": "#fdfefe",
+		"activityBar.border": "#1a212d",
+		"activityBarBadge.background": "#fdfefe",
         "activityBarBadge.foreground": "#0a0e14",
         
-		"sideBar.background": "#151515",
+		"sideBar.background": "#0e1421",
 		"sideBar.foreground": "#a8aebd",
-		"sideBar.border": "#0a0a0a",
+		"sideBar.border": "#1a212d",
 		"sideBarTitle.foreground": "#d2d2d2",
 		"sideBarSectionHeader.background": "#151515",
 		"sideBarSectionHeader.foreground": "#d2d2d2",
@@ -82,8 +82,8 @@
 		"breadcrumbPicker.background": "#151515",
         
 		"tab.activeBackground": "#343434",
-		"tab.activeForeground": "#a4bd00",
-		"tab.border": "#343434",
+		"tab.activeForeground": "#fdfefe",
+		"tab.border": "#1a212d",
 		"tab.activeBorder": "#343434",
 		"tab.unfocusedActiveBorder": "#3d424d",
 		"tab.inactiveBackground": "#000000",
@@ -91,8 +91,8 @@
 		"tab.unfocusedActiveForeground": "#3d424d",
         "tab.unfocusedInactiveForeground": "#3d424d",
         
-		"editor.background": "#0a0a0a",
-		"editor.foreground": "#b3b8c5",
+		"editor.background": "#131d2a",
+		"editor.foreground": "#a0b4d7",
 		"editorLineNumber.foreground": "#4d5466",
 		"editorLineNumber.activeForeground": "#3d424de6",
 		"editorCursor.foreground": "#bde5f1",
@@ -156,18 +156,18 @@
 		"peekViewTitleDescription.foreground": "#3d424d",
 		"peekViewTitleLabel.foreground": "#3d424d",
 
-		"panel.background": "#0a0a0a",
-		"panel.border": "#a4bd00",
-		"panelTitle.activeBorder": "#a4bd00",
+		"panel.background": "#0e1421",
+		"panel.border": "#1a212d",
+		"panelTitle.activeBorder": "#fdfefe",
 		"panelTitle.activeForeground": "#a0a8bd",
 		"panelTitle.inactiveForeground": "#86898f",
 		
 		"menu.background": "#151515",
 		"menu.foreground": "#a0a8bd",
 
-		"statusBar.background": "#000000",
+		"statusBar.background": "#0e1421",
 		"statusBar.foreground": "#787e8d",
-		"statusBar.border": "#000000",
+		"statusBar.border": "#1a212d",
 		"statusBar.debuggingBackground": "#f29668",
 		"statusBar.debuggingForeground": "#0a0e14",
 		"statusBar.noFolderBackground": "#0d1016",
@@ -194,7 +194,7 @@
 		"settings.headerForeground": "#b3b1ad",
         "settings.modifiedItemIndicator": "#6994bf",
         
-		"terminal.background": "#0a0a0a",
+		"terminal.background": "#0e1421",
 		"terminal.foreground": "#a8aebd", 
 		"terminal.ansiBlack": "#01060e",
 		"terminal.ansiRed": "#ea6c73",
@@ -208,7 +208,7 @@
 		"terminal.ansiBrightRed": "#f07178",
 		"terminal.ansiBrightGreen": "#c2d94c",
 		"terminal.ansiBrightYellow": "#ffb454",
-		"terminal.ansiBrightBlue": "#59c2ff",
+		"terminal.ansiBrightBlue": "#69c8ff",
 		"terminal.ansiBrightMagenta": "#ffee99",
 		"terminal.ansiBrightCyan": "#95e6cb",
 		"terminal.ansiBrightWhite": "#ffffff"
@@ -303,7 +303,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#827db5"
+				"foreground": "#8ad4ff"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 				"source.c storage.type"
 			],
 			"settings": {
-				"foreground": "#59c2ff"
+				"foreground": "#69c8ff"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"storage.type.function"
 			],
 			"settings": {
-				"foreground": "#c1d841"
+				"foreground": "#ff8533" 
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ff8533"
+				"foreground": "#00c200"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 				"meta.parameter"
 			],
 			"settings": {
-				"foreground": "#827db5"
+				"foreground": "#8496b4"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 				"support.function.go"
 			],
 			"settings": {
-				"foreground": "#ffb454"
+				"foreground": "#a7adf4"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#59c2ff"
+				"foreground": "#69c8ff"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 				"source.stylus entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#59c2ff"
+				"foreground": "#69c8ff"
 			}
 		},
 		{
