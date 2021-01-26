@@ -55,9 +55,9 @@
                 "path": "./themes/firefly-pro-midnight.json"
             },
             {
-                "label": "FireFly Pro Light",
+                "label": "FireFly Pro Contrast",
                 "uiTheme": "vs",
-                "path": "./themes/firefly-pro-light.json"
+                "path": "./themes/firefly-pro-contrast.json"
             }
         ]
     }
