@@ -66,13 +66,13 @@
 		"sideBar.background": "#0e1421",
 		"sideBar.foreground": "#a8aebd",
 		"sideBar.border": "#1a212d",
-		"sideBarTitle.foreground": "#d2d2d2",
-		"sideBarSectionHeader.background": "#151515",
+		"sideBarTitle.foreground": "#a8aebd",
+		"sideBarSectionHeader.background": "#0e1421",
 		"sideBarSectionHeader.foreground": "#d2d2d2",
         
 		"editorGroup.border": "#01060e",
 		"editorGroupHeader.noTabsBackground": "#0a0e14",
-		"editorGroupHeader.tabsBackground": "#0a0e14",
+		"editorGroupHeader.tabsBackground": "#0e1421",
 		"editorGroupHeader.tabsBorder": "#0a0e14",
 		
 		"breadcrumb.background": "#000000",
@@ -86,12 +86,12 @@
 		"tab.border": "#1a212d",
 		"tab.activeBorder": "#343434",
 		"tab.unfocusedActiveBorder": "#3d424d",
-		"tab.inactiveBackground": "#000000",
+		"tab.inactiveBackground": "#0e1421",
 		"tab.inactiveForeground": "#a0a8bd",
 		"tab.unfocusedActiveForeground": "#3d424d",
         "tab.unfocusedInactiveForeground": "#3d424d",
         
-		"editor.background": "#080c12",
+		"editor.background": "#0a0f17",
 		"editor.foreground": "#bac6db",
 		"editorLineNumber.foreground": "#4d5466",
 		"editorLineNumber.activeForeground": "#3d424de6",
@@ -99,7 +99,7 @@
 
 		"editor.selectionBackground": "#474747",
 		"editor.selectionForeground": "#474747",
-		"editor.inactiveSelectionBackground": "#a4bd00",
+		"editor.inactiveSelectionBackground": "#474747",
 		"editor.selectionHighlightBackground": "#262626",
 		"editor.selectionHighlightBorder": "#1d2936",
 
@@ -186,7 +186,7 @@
 
 		"gitDecoration.modifiedResourceForeground": "#6994bfb3",
 		"gitDecoration.deletedResourceForeground": "#d96c75b3",
-		"gitDecoration.untrackedResourceForeground": "#6e7035",
+		"gitDecoration.untrackedResourceForeground": "#cbced7",
 		"gitDecoration.ignoredResourceForeground": "#666666",
 		"gitDecoration.conflictingResourceForeground": "#ff5300",
 		"gitDecoration.submoduleResourceForeground": "#ffee99b3",
@@ -194,7 +194,7 @@
 		"settings.headerForeground": "#b3b1ad",
         "settings.modifiedItemIndicator": "#6994bf",
         
-		"terminal.background": "#0e1421",
+		"terminal.background": "#0a0f17",
 		"terminal.foreground": "#a8aebd", 
 		"terminal.ansiBlack": "#01060e",
 		"terminal.ansiRed": "#ea6c73",
@@ -303,7 +303,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#8ad4ff"
+				"foreground": "#827DB5"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#69c8ff"
+				"foreground": "#39BAE6"
 			}
 		},
 		{
