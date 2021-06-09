@@ -194,7 +194,7 @@
 		"settings.headerForeground": "#b3b1ad",
         "settings.modifiedItemIndicator": "#6994bf",
         
-		"terminal.background": "#0a0f17",
+		"terminal.background": "#090d13",
 		"terminal.foreground": "#a8aebd", 
 		"terminal.ansiBlack": "#01060e",
 		"terminal.ansiRed": "#ea6c73",
