@@ -19,18 +19,26 @@
 
 
 ## Description
-
+ * 🔥🔥🔥🔥🔥🔥🔥 New FireFly Version is Live. 🔥🔥🔥🔥🔥🔥
  * A Pure Colorful Dark Theme that Glows in Night, inspired by Fireflies.
- * Includes Two Dark variants - Firefly Pro & FireFly Pro Midnight
+ * Includes Three Dark variants - Firefly Pro (New), Firefly Pro Bright & FireFly Pro Midnight.
  * For professional Night Coders who Loves Visual Studio Code.
  * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
  * A Theme that motivates you to code at night.
 
-## Firefly Pro Demo
+## Firefly Pro Demo (New) 🎉🎉🎉🎉🎉🎉
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-01.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-02.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-03.png">
+  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-04.png">
+</div>
+
+## Firefly Pro Bright Demo
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-home.png">
-  <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-php.png">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-python.png">
   <img src="https://raw.githubusercontent.com/ankitmlive/firefly-theme/master/assets/firefly-pro-vue.png">
 </div>
