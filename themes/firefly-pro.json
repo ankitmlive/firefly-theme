@@ -258,8 +258,7 @@
 				"keyword.control.import"
 			],
 			"settings":{
-				"foreground": "#827DB5",
-				"fontStyle":"bold"
+				"foreground": "#A180FD"
 
 			}
 		},
@@ -431,7 +430,8 @@
 				"support.function.go"
 			],
 			"settings": {
-				"foreground": "#A180FD"
+				"foreground": "#39BAE6",
+				"fontStyle":"italic"
 			}
 		},
 		{
