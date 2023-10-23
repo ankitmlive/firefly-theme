@@ -407,8 +407,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#859900",
-				"fontStyle":"bold italic"
+				"foreground": "#859900"
 			}
 		},
 		{
