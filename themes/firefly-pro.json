@@ -515,6 +515,17 @@
 			}
 		},
 		{
+			"name": "JSX Tags",
+			"scope": [
+				"support.class",
+				"support.class.component.tsx"
+			  ],
+			  "settings": {
+				"foreground": "#49C088",
+				"fontStyle": "bold"
+			  }
+		},
+		{
 			"name": "Decorators/annotation",
 			"scope": [
 				"meta.decorator variable.other",
